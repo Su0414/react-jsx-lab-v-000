@@ -1,10 +1,7 @@
 class Webpage extends Component {
   render() {
     return (
-        <title>The worlds coolest webpage</title>
-        <FilterText />
-        <FilterText />
-
+        <title>The worlds coolest webpage</title>      
     )
   }
 }
