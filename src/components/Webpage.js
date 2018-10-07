@@ -1,6 +1,7 @@
 import React from 'react';
 
-import FilterText from 'FilterText';
+import FilterText from './FilterText.js';
+
 
 export default class Webpage extends React.Component {
   render() {
