@@ -1,4 +1,6 @@
-class FilterText extends Component {
+import React from 'react';
+
+export default class FilterText extends React.Component {
   render() {
     return (
         <p>
