@@ -1,4 +1,6 @@
 import React from 'react';
+import FilterText from 'components/FilterText';
+
 export default class Webpage extends React.Component {
   render() {
     return (
