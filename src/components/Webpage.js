@@ -1,9 +1,7 @@
 class Webpage extends Component {
   render() {
     return (
-        <title>
-          I am a filler text. I can be used to fill your screen. Amazing!
-        </title>
+        <title>The worlds coolest webpage</title>
         <FilterText />
         <FilterText />
 
