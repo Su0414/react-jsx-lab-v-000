@@ -3,7 +3,12 @@ import React from 'react';
 export default class Webpage extends React.Component {
   render() {
     return (
-        <title>The worlds coolest webpage</title>
+
+        <div>
+        <h1>The worlds coolest webpage</h1>
+        <FilterText />
+        <FilterText />
+        </div>
     )
   }
 }
