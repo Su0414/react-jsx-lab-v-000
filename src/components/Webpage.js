@@ -9,8 +9,7 @@ export default class Webpage extends React.Component {
 
         <div>
         <h1>The worlds coolest webpage</h1>
-        <FilterText />
-        <FilterText />
+      
         </div>
     )
   }
