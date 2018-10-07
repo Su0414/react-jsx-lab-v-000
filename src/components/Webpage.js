@@ -4,7 +4,7 @@ export default class Webpage extends React.Component {
     return (
         <div>
         <h1>The worlds coolest webpage</h1>
-
+        <FilterText />
         </div>
     )
   }
