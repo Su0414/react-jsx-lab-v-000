@@ -3,7 +3,7 @@ import React from 'react';
 export default class RegistrationForm extends React.Component {
   render() {
     return (
-            <div className="user_form">
+            <div className="RegistrationForm">
               <form>
                 <input type="text" name="username" />
                 <input type="password" name="password" />
