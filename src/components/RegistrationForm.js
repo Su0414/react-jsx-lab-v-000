@@ -5,8 +5,8 @@ export default class RegistrationForm extends React.Component {
     return (
             <div className="user_form">
               <form>
-                <input type="text" name="username"/>
-                <input type="password" name="password"/>
+                <input type="text" name="username" />
+                <input type="password" name="password" />
                 <button type="submit"></button>
               </form>
             </div>
